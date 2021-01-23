@@ -14,4 +14,4 @@ CSS selectors were consolidated to remove redundancy and improve readability.
 CSS was also re-arranged so it falls in sequential order.
 ```
 
- ![A screenshot of the webpage's header & navigation bar](Develop/assets/images/readmeimage.jpg)
+ ![A screenshot of the webpage's header & navigation bar](Develop/assets/images/readmeimage.JPG)
